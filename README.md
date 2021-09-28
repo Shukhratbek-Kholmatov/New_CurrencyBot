@@ -1,2 +1,4 @@
 # New_CurrencyBot
-Bot for currency exchanging.
+🇺🇿Xalqaro valyutalarni tanlangan valyutalarga konvertatsiya qiladigan bot.
+
+🇬🇧Bot which exchanges international currencies into selected currency.
