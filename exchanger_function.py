@@ -1,5 +1,5 @@
 import requests
-key="bc8e244ffc83be150bcb8e62"
+key="Your key here which for sending request to exchangerate-api.com"
 def exchange(currency,amount):
     if currency=="UZS-USD":
         currency="UZS"
